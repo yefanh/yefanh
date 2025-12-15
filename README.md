@@ -12,4 +12,4 @@ Beyond web applications, I have a keen interest in machine learning, having deve
 - 🔭 I'm currently building and refining full-stack projects, focusing on clean architecture and seamless user experiences.
 - 🌱 I’m diving deeper into **System Design and Cloud Infrastructure (AWS)**.
 - 💼 I am actively seeking **Software Engineer (SDE) internship or full-time opportunities** where I can contribute to challenging problems.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/yefanh) or send an email to **hyf528@outlook.com**.
+- 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/yefanh) or send an email to **helucy786@gmail.com**.
